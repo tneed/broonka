@@ -1,0 +1,11 @@
+.rw-welcome{
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.rw-welcome button{
+    margin:10px;
+}
